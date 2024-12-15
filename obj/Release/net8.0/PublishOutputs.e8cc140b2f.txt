@@ -1,0 +1,6 @@
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\publish\EscapeGame1.exe
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\publish\EscapeGame1.dll
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\publish\EscapeGame1.deps.json
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\publish\EscapeGame1.runtimeconfig.json
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\publish\EscapeGame1.pdb
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\publish\Newtonsoft.Json.dll

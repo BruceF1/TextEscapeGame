@@ -1,0 +1,17 @@
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\EscapeGame1.exe
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\EscapeGame1.deps.json
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\EscapeGame1.runtimeconfig.json
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\EscapeGame1.dll
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\EscapeGame1.pdb
+C:\Users\BruceFarthing\source\repos\EscapeGame1\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGame1.csproj.AssemblyReference.cache
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGame1.AssemblyInfoInputs.cache
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGame1.AssemblyInfo.cs
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGame1.csproj.CoreCompileInputs.cache
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGa.07C341B4.Up2Date
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGame1.dll
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\refint\EscapeGame1.dll
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGame1.pdb
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\EscapeGame1.genruntimeconfig.cache
+C:\Users\BruceFarthing\source\repos\EscapeGame1\obj\Release\net8.0\ref\EscapeGame1.dll
